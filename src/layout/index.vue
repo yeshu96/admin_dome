@@ -7,6 +7,7 @@
         <navbar />
       </div>
       <app-main />
+      <!-- 测试 -->
     </div>
   </div>
 </template>
