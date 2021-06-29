@@ -7,7 +7,7 @@
         <navbar />
       </div>
       <app-main />
-      <!-- 测试 -->
+      <!-- 测试git config user.name -->
     </div>
   </div>
 </template>
